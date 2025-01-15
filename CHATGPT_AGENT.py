@@ -62,8 +62,8 @@ A Prompting Strategy for Tool Usage
 import json
 
 system_message = """You are an agent with access to the following tools:
-1) Calculator: to evaluate math expressions.
-2) Weather: to provide weather info.
+
+1) Weather: to provide weather info.
 
 When you want to use a tool, return a JSON with:
 {"tool": "<tool_name>", "input": "..."}
