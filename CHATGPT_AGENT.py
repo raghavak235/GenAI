@@ -1,4 +1,4 @@
- “Agentic Copilot” using the ChatGPT API (OpenAI’s gpt-3.5-turbo or gpt-4 models)"
+Example of “Agentic Copilot” using the ChatGPT API (OpenAI’s gpt-3.5-turbo or gpt-4 models)"
 
 import os
 import openai
